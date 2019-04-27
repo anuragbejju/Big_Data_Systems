@@ -1,0 +1,13 @@
+database,quorum_size,average_latency,average_external_latency,average_internal_latency,period
+"A-1,A-2,A-3",CALL_1,0.333,68,100,10
+"A-1,A-2,A-3",CALL_2,0.481,75,84,10
+"A-1,A-2,A-3",CALL_3,0.863,92,84,10
+"B-1,B-2,B-3",CALL_1,0.239,100,100,10
+"B-1,B-2,B-3",CALL_2,0.34,100,100,10
+"B-1,B-2,B-3",CALL_3,0.415,100,100,10
+"C-1,C-2,C-3",CALL_1,0.134,85,100,10
+"C-1,C-2,C-3",CALL_2,0.182,82,84,10
+"C-1,C-2,C-3",CALL_3,0.235,92,84,10
+"D-1,D-2,D-3",CALL_1,0.354,100,100,10
+"D-1,D-2,D-3",CALL_2,0.526,100,100,10
+"D-1,D-2,D-3",CALL_3,0.904,100,100,10
